@@ -27,6 +27,11 @@ A simple Python application for translating text to German and back to languages
 
 Contributions are welcome!
 
+##LICENSE
+
+This repository contains a text translator application built using Python and Tkinter. This project utilizes the Google Translate API for language translation and is licensed under the MIT License.
+
+
 ## Contact
 
 For questions or support, contact fedeorange@gmail.com
