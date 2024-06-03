@@ -26,6 +26,7 @@ A simple Python application for translating text to German and back to languages
 ## Contributing
 
 Contributions are welcome!
+This project was developed with the assistance of Chat GPT AI. While I wrote the code, significant help was provided and code snippets contributed to the final implementation. I would like to acknowledge the role of AI in the development process.
 
 ##LICENSE
 
